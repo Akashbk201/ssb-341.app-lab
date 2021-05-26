@@ -17,6 +17,18 @@
 @media (min-width: 1025px) and (max-width: 1280px) {
 
 	/* CSS */
+	footer.footer-sec {
+		padding: 10px 0px;
+		margin-top: 0px;
+	}
+
+	.button-section {
+		text-align: center;
+	}
+
+	.sec-table {
+		height: 450px;
+	}
 
 }
 
